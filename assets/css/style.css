@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --header-color: #006633;
+    --bg-color: #330066;
+    --box-color: #660033;
+    font-size: 60%;
+    color: white;
+  }
+
+  header {
+      background-color: var(--bg-color);
+  }
