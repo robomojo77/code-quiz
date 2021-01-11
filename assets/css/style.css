@@ -13,3 +13,20 @@
   header {
       background-color: var(--bg-color);
   }
+
+  main {
+    background-color: var(--bg-color);
+  }
+
+  main .question-item {
+    display: block;
+    background-color: var(--header-color);
+    padding: 10px;
+  }
+
+  main .answer-item {
+    display: block;
+    background-color: var(--box-color);
+    padding: 10px;
+    margin: 20px;
+  }
